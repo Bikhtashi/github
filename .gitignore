@@ -1,0 +1,2 @@
+#Don't add node_model file to github
+.node_modules
