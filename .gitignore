@@ -1,2 +1,10 @@
 #Don't add node_model file to github
-.node_modules
+bower_components/
+node_modules/
+.sass-cache/
+psd/
+
+*.psd
+*.log
+.DS_Store
+.desktop.ini
